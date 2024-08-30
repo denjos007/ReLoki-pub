@@ -1,0 +1,8 @@
+Default	False	2.0	3
+Antenna D	False	2.0	3
+Antenna S	False	2.0	3
+CLK	True	2.0	3
+Host SPI	False	2.0	3
+USB 2	False	2.0	3
+UWB SPI	False	2.0	3
+False	True

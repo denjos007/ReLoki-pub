@@ -1,0 +1,11 @@
+(sym_lib_table
+  (lib (name "MCU_NXP_LPC_U")(type "KiCad")(uri "${KICAD_USER_SYMBOL_DIR}/MCU_NXP_LPC_U.kicad_sym")(options "")(descr ""))
+  (lib (name "RF_Module_U")(type "KiCad")(uri "${KICAD_USER_SYMBOL_DIR}/RF_Module_U.kicad_sym")(options "")(descr ""))
+  (lib (name "Power_Protection_U")(type "KiCad")(uri "${KICAD_USER_SYMBOL_DIR}/Power_Protection_U.kicad_sym")(options "")(descr ""))
+  (lib (name "Converter_DCDC_U")(type "KiCad")(uri "${KICAD_USER_SYMBOL_DIR}/Converter_DCDC_U.kicad_sym")(options "")(descr ""))
+  (lib (name "RF_U")(type "KiCad")(uri "${KICAD_USER_SYMBOL_DIR}/RF_U.kicad_sym")(options "")(descr ""))
+  (lib (name "Oscillator_U")(type "KiCad")(uri "${KICAD_USER_SYMBOL_DIR}/Oscillator_U.kicad_sym")(options "")(descr ""))
+  (lib (name "Tag-Connect")(type "Legacy")(uri "${KICAD_USER_SYMBOL_DIR}/Tag-Connect.lib")(options "")(descr ""))
+  (lib (name "Buffer_U")(type "KiCad")(uri "${KICAD_USER_SYMBOL_DIR}/Buffer_U.kicad_sym")(options "")(descr ""))
+  (lib (name "74xGxx_U")(type "KiCad")(uri "${KICAD_USER_SYMBOL_DIR}/74xGxx_U.kicad_sym")(options "")(descr ""))
+)

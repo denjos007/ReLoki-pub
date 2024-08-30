@@ -1,0 +1,4 @@
+﻿designator,quantity,value,pack,mpn,mount_type
+"TP1, TP2",2,TestPoint,TestPoint_Pad_2.0x2.0mm,,tht
+TP3,1,TestPoint,TestPoint_Pad_1.0x1.0mm,,tht
+kibuzzard-66101274,1,G***,kibuzzard-66101274,,tht

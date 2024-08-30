@@ -1,0 +1,9 @@
+(fp_lib_table
+  (lib (name "Package_QFP_U")(type "KiCad")(uri "${KICAD_USER_FOOTPRINT_DIR}/Package_QFP_U.pretty")(options "")(descr ""))
+  (lib (name "RF_U")(type "KiCad")(uri "${KICAD_USER_FOOTPRINT_DIR}/RF_U.pretty")(options "")(descr ""))
+  (lib (name "Tag-Connect")(type "KiCad")(uri "${KICAD_USER_FOOTPRINT_DIR}/Tag-Connect.pretty")(options "")(descr ""))
+  (lib (name "Package_DFN_QFN_U")(type "KiCad")(uri "${KICAD_USER_FOOTPRINT_DIR}/Package_DFN_QFN_U.pretty")(options "")(descr ""))
+  (lib (name "Crystal_U")(type "KiCad")(uri "${KICAD_USER_FOOTPRINT_DIR}/Crystal_U.pretty")(options "")(descr ""))
+  (lib (name "Oscillator_U")(type "KiCad")(uri "${KICAD_USER_FOOTPRINT_DIR}/Oscillator_U.pretty")(options "")(descr ""))
+  (lib (name "Package_SON_U")(type "KiCad")(uri "${KICAD_USER_FOOTPRINT_DIR}/Package_SON_U.pretty")(options "")(descr ""))
+)

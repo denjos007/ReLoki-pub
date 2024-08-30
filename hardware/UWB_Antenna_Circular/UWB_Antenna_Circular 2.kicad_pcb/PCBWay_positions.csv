@@ -1,0 +1,5 @@
+﻿pos_x,pos_y,rotation,side,designator,mpn,pack,value,mount_type,place
+99.5,-95.4,0.0,top,TP1,,TestPoint_Pad_2.0x2.0mm,TestPoint,tht,True
+103.5,-95.4,0.0,top,TP2,,TestPoint_Pad_2.0x2.0mm,TestPoint,tht,True
+101.5,-91.6,0.0,top,TP3,,TestPoint_Pad_1.0x1.0mm,TestPoint,tht,True
+101.5,-99.312641,180.0,bottom,kibuzzard-66101274,,kibuzzard-66101274,G***,tht,False
